@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\testpic\testpic\bin\Debug\netcoreapp3.0\testpic.exe
+C:\Users\User\source\repos\testpic\testpic\bin\Debug\netcoreapp3.0\testpic.deps.json
+C:\Users\User\source\repos\testpic\testpic\bin\Debug\netcoreapp3.0\testpic.runtimeconfig.json
+C:\Users\User\source\repos\testpic\testpic\bin\Debug\netcoreapp3.0\testpic.runtimeconfig.dev.json
+C:\Users\User\source\repos\testpic\testpic\bin\Debug\netcoreapp3.0\testpic.dll
+C:\Users\User\source\repos\testpic\testpic\bin\Debug\netcoreapp3.0\testpic.pdb
+C:\Users\User\source\repos\testpic\testpic\obj\Debug\netcoreapp3.0\testpic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\testpic\testpic\obj\Debug\netcoreapp3.0\testpic.AssemblyInfo.cs
+C:\Users\User\source\repos\testpic\testpic\obj\Debug\netcoreapp3.0\testpic.dll
+C:\Users\User\source\repos\testpic\testpic\obj\Debug\netcoreapp3.0\testpic.pdb
+C:\Users\User\source\repos\testpic\testpic\obj\Debug\netcoreapp3.0\testpic.csprojAssemblyReference.cache
